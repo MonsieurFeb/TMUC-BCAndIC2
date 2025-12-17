@@ -1,4 +1,7 @@
 # TMUC-BCAndIC2
+
+![tmucbcic.png](tmucbcic.png)
+
 ### Tech Modpack Ultimate Collection
 
 Первые технологии автоматизации производства в Майнкрафт. Узнайте, как это делали 10 лет назад!
