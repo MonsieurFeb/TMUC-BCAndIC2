@@ -6,7 +6,9 @@
 
 Первые технологии автоматизации производства в Майнкрафт. Узнайте, как это делали 10 лет назад!
 
-[Здесь](https://docs.google.com/spreadsheets/d/1ojuKf1IoQ7r4Qm-mwTdiUUgyBekjT8SPW5Oh4dAUhIA/edit?usp=sharing) можно ознакомиться со списком модов.
+[Здесь](https://docs.google.com/spreadsheets/d/1b3dkaR_RF_8s0M1XRUeTkp7m10XTmL_vE5sgxTHAxQs/edit?usp=sharing) можно ознакомиться со списком модов.
+
+Сейчас репозиторий несёт только информационную ценность, воспользуйтесь гугл или яндекс диском.
 
 # Installation
 - Установите Minecraft 1.7.10. Выберите одну из папок (пустых) и запомните её.
@@ -18,7 +20,7 @@
 ## Other Modpacks
 Вы можете найти эту и другие мои сборки [здесь](https://monsieurfeb.github.io/modpacks.html)
 
-А в этой [таблице](https://docs.google.com/spreadsheets/d/1lLu7JaAFoo23XOV87XWc5rpGY2zUfxdeOsy7jaUptiE/edit?usp=sharing) статус разработки модпаков коллекции.
+А в этой [таблице](https://docs.google.com/spreadsheets/d/1u5vIX8oGjELeDfsSiaR8NvIATlkEW-N-MmX3r2Xlx8Q/edit?usp=sharing) статус разработки модпаков коллекции.
 
 ## Contact me
 Просьба писать на почту MonsieurFeb@yandex.ru или [Telegram](https://t.me/thirdBTP/824)
